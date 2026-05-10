@@ -55,6 +55,15 @@ Context Memory: Learns your habits and suggests actions.
 Emotion-Aware Replies: Adjusts tone based on interaction.
 Auto Research: Searches multiple sources and gives a clean summary.
 
-6) In Short
+
+U want to use maya you use antigravity app download it and then select project folder you dowload and paste some commands on chatbot :-
+
+1. Analyze all the code.
+2. Now fullfill all the requirements download it and run this my new project.    (note wait a fev minutes its done the..)
+3. Create your groq and all api keys and then paste in .env file. then run it and you want offline mode, install ollama and download gemma4 deepseek and qwen models on ollama then restart my and any problem accure contact me....
+
+(!!! 4. i am not share you all file coeds you want all file massage me and follow me in github ..)  
+
+7) In Short
 
 MAYA combines voice input, AI reasoning, and system control into one practical desktop assistant. It makes your PC feel intelligent, responsive, and easy to control—just by speaking.
